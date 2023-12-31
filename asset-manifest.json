@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/folder_structure_vsCode_react/static/css/main.8cc10b93.css",
+    "main.js": "/folder_structure_vsCode_react/static/js/main.3c690f17.js",
+    "index.html": "/folder_structure_vsCode_react/index.html",
+    "main.8cc10b93.css.map": "/folder_structure_vsCode_react/static/css/main.8cc10b93.css.map",
+    "main.3c690f17.js.map": "/folder_structure_vsCode_react/static/js/main.3c690f17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cc10b93.css",
+    "static/js/main.3c690f17.js"
+  ]
+}
